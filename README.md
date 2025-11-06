@@ -1,7 +1,7 @@
 Clone the repository:
 git clone https://github.com/your-username/sales-dashboard.git
 cd sales-dashboard
-cd dashboard-backend
+type in terminal to change the path:cd dashboard-backend
 Install dependencies: interminal run : npm install
 for dashboard-backend now run in terminal: node server.js
 this would give the messgae that server is running at local host 5000
